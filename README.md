@@ -53,6 +53,4 @@ This repository contains a Python script `mismatch.py` which is used to calculat
 
     This command calculates mismatches using parameters from `mismatch_parameters.csv`, with a minimum value of 0, maximum value of 1, step size of 0.1, and spacers file `U00096.3_sgrna.tsv.gz`.
 
-Please replace `<repository_url>` with the actual URL of this repository.
-
 If you encounter any issues, feel free to open an issue in this repository.
