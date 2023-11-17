@@ -24,7 +24,7 @@ This repository contains a Python script `mismatch.py` which is used to calculat
 5. **Clone the repository**: Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone <repository_url>
+    git clone ryandward/crispri_public_mismatch
     ```
 
 6. **Navigate to the repository**: Change your current directory to the cloned repository:
